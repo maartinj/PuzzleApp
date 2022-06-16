@@ -18,5 +18,5 @@ Application is written using UIKit, MVC Model and Auto Layout that looks good on
 <br>
 
 <p align="center">
-  <img src="https://github.com/maartinj/PuzzleApp/blob/main/puzzleAppPresentation.gif" height="600" />
+  <img src="https://github.com/maartinj/PuzzleApp/blob/main/puzzleAppPresentation.gif" height="600" width="300" />
 </p>
